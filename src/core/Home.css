@@ -1,0 +1,10 @@
+Card{
+    max-width: 600;
+    margin: auto;
+    margin-top: 2em;
+    min-height: 300
+}
+
+body{
+    background-color: blue
+}
